@@ -45,3 +45,21 @@ You are required to submit BOTH of the following for review:
 The URL of the deployed application.
 
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project
+
+# Horiseon, Inc
+
+## Purpose
+A website that offers SEO (Search Engine Optimization) consolidation 
+
+## Built With
+* HTML
+* CSS
+* README.md
+
+## Website
+ https://gms1980.github.io/challenge1/
+
+## Contribution
+Made with ❤️ by George Schimmel
+
+### ©️2019 Horiseon, Inc 
