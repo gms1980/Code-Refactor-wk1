@@ -50,7 +50,8 @@ The URL of the GitHub repository that contains your code. Give the repository a 
 
 ## Purpose
 A website that offers SEO (Search Engine Optimization) consolidation 
-![altternativetext] (./assets/search-engine-optimization.jpg)
+
+![SEO](/Users/George/Desktop/challenge1/assets/images/search-engine-optimization.jpg) 
 
 ## Built With
 * HTML
