@@ -50,6 +50,7 @@ The URL of the GitHub repository that contains your code. Give the repository a 
 
 ## Purpose
 A website that offers SEO (Search Engine Optimization) consolidation 
+![altternativetext] (./assets/search-engine-optimization.jpg)
 
 ## Built With
 * HTML
@@ -57,7 +58,7 @@ A website that offers SEO (Search Engine Optimization) consolidation
 * README.md
 
 ## Website
- https://gms1980.github.io/challenge1/
+ https://gms1980.github.io/Code-Refactor-wk1/
 
 ## Contribution
 Made with ❤️ by George Schimmel
