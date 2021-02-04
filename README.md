@@ -52,7 +52,7 @@ The URL of the GitHub repository that contains your code. Give the repository a 
 A website that offers SEO (Search Engine Optimization) consolidation 
 
 ![SEO](assets/images/search-engine-optimization.jpg)
- 
+ <img src="assets/images/search-engine-optimization.jpg" width="120" height="120">
 
 ## Built With
 * HTML
