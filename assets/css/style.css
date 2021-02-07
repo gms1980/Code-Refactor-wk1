@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Begins Here*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* HERO*/
 .hero {
     height: 800px;
     width: 100%;
@@ -187,6 +189,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*Footer*/
 
 .footer {
     padding: 30px;
